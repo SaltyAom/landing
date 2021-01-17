@@ -1,7 +1,5 @@
 {
     "version": 2,
-    "name": "Mystiar",
-    "alias": "mystiar.com",
     "routes": [
         {
             "src": "/.*",
